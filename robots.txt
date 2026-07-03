@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bourg-en-bresse.developpementapps.org/sitemap.xml
